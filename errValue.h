@@ -1,0 +1,1 @@
+#define errValue -40000.0
